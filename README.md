@@ -1,5 +1,7 @@
 # Sonarrr
 
+[![Listed on mcpservers.org](https://mcpservers.org/badge.svg)](https://mcpservers.org/servers/sonarrr-app/sonarrr)
+
 <img src="logo/icon-512.png" alt="Sonarrr logo" width="128" height="128">
 
 **Website:** [https://sonarrr.app](https://sonarrr.app) · **English:** [https://sonarrr.app/en](https://sonarrr.app/en)
